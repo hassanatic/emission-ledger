@@ -1,0 +1,8 @@
+[
+  { "key": "fuel.diesel", "label": "Diesel", "scope": "Scope1", "unit": "l", "kgCo2ePerUnit": 2.66, "source": "sample value, rounded" },
+  { "key": "fuel.light_fuel_oil", "label": "Light fuel oil", "scope": "Scope1", "unit": "l", "kgCo2ePerUnit": 2.68, "source": "sample value, rounded" },
+  { "key": "fuel.natural_gas", "label": "Natural gas", "scope": "Scope1", "unit": "m3", "kgCo2ePerUnit": 2.02, "source": "sample value, rounded" },
+  { "key": "electricity.location.fi", "label": "Electricity, Finland grid average", "scope": "Scope2", "unit": "kWh", "kgCo2ePerUnit": 0.06, "source": "sample value, rounded" },
+  { "key": "electricity.residual.fi", "label": "Electricity, Finland residual mix", "scope": "Scope2", "unit": "kWh", "kgCo2ePerUnit": 0.35, "source": "sample value, rounded" },
+  { "key": "heat.location.fi", "label": "District heat, Finland average", "scope": "Scope2", "unit": "kWh", "kgCo2ePerUnit": 0.13, "source": "sample value, rounded" }
+]
